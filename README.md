@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shobhitkeshri
 - 👀 I’m interested in web development and ready to build software solution for users
-- 🌱 I’m currently learning Electronics and Communication Engineering in Birla Institute of Technology
+- 🌱 I’m currently learning Electronics and Communication Engineering from Birla Institute of Technology Mesra
 - 💞️ I’m looking to collaborate on software designs and web development projects 
 - 📫 My Linkedin profile: https://www.linkedin.com/in/shobhit-kumar-b6a8a32a3/
 - 😄 Collaborative,believe in teams,passionate
